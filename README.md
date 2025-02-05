@@ -5,6 +5,7 @@ Introducing our app **"El 3af4a 2af4a"**, your essential companion for safer, sm
 ## Table of Contents
 - [Description](#Description)
 - [Usage](#Usage)
+- [How to Compile and Run](#How-to-Compile-and-Run)
 - [Technologies](#Technologies)
 
 ## Description
@@ -12,6 +13,18 @@ This application integrates with **Google Maps API** to follow the driver's loca
 
 ## Usage
 The purpose of this application is to have safer and smoother drives on Egypt's bumpy roads, and it supports running in the background. Thus, the user can just open this application and leave it in the background while running Google Maps (or a similar app.) for their normal trip. There is a notification for optional feedback after each pothole or speed bump where the user can just confirm or deny the correctness of the alert, and this notification disappears after 5 seconds. 
+
+## How to Compile and Run
+1. **Download the APK**  
+   Navigate to the **apk** folder in this repository and download the `.apk` file to your computer or directly to your Android device.
+
+2. **Install the APK on your Android device**  
+   - Enable **"Install from Unknown Sources"** in your device's settings (this may be under "Security" or "Apps").
+   - Transfer the downloaded APK file to your Android device (if it’s not already on it).
+   - Tap on the APK file to begin the installation process.
+
+3. **Run the App**  
+   After installation, locate the app on your device and open it to start using it.
 
 ## Technologies
 - **Java** – Core programming language for Android app development  
