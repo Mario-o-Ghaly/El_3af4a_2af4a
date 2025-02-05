@@ -15,16 +15,18 @@ This application integrates with **Google Maps API** to follow the driver's loca
 The purpose of this application is to have safer and smoother drives on Egypt's bumpy roads, and it supports running in the background. Thus, the user can just open this application and leave it in the background while running Google Maps (or a similar app.) for their normal trip. There is a notification for optional feedback after each pothole or speed bump where the user can just confirm or deny the correctness of the alert, and this notification disappears after 5 seconds. 
 
 ## How to Compile and Run
+
 1. **Download the APK**  
-   Navigate to the **apk** folder in this repository and download the `.apk` file to your computer or directly to your Android device.
+   - Go to the **apk** folder in this repository and download the `.apk` file.
 
 2. **Install the APK on your Android device**  
-   Enable **"Install from Unknown Sources"** in your device's settings (this may be under "Security" or "Apps").
-   - Transfer the downloaded APK file to your Android device (if it’s not already on it).
-   - Tap on the APK file to begin the installation process.
+   - Ensure that **"Install from Unknown Sources"** is enabled in your device settings (typically under "Security" or "Apps").
+   - Transfer the downloaded APK to your Android device.
+   - Tap the APK file to begin installation.
 
-3. **Run the App**  
-   After installation, locate the app on your device and open it to start using it.
+3. **Launch the App**  
+   - Once installed, find the app on your device and open it to start using it.
+
 
 ## Technologies
 - **Java** – Core programming language for Android app development  
