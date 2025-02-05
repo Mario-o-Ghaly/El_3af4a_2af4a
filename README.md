@@ -14,7 +14,7 @@ This application integrates with **Google Maps API** to follow the driver's loca
 The purpose of this application is to have safer and smoother drives on Egypt's bumpy roads, and it supports running in the background. Thus, the user can just open this application and leave it in the background while running Google Maps (or a similar app.) for their normal trip. There is a notification for optional feedback after each pothole or speed bump where the user can just confirm or deny the correctness of the alert, and this notification disappears after 5 seconds. 
 
 ## Technologies
-- [**Java**] - for creating the project's code
+- **[Java]** - for creating the project's code
 - [Android Studio] - Development Framework
 - [Firebase] - User Authentication & Database
 - [Google API] - For the map navigation 
