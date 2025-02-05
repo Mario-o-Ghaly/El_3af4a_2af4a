@@ -15,12 +15,7 @@ The purpose of this application is to have safer and smoother drives on Egypt's 
 
 ## Technologies
 - **[Java]** - for creating the project's code
-- [Android Studio] - Development Framework
-- [Firebase] - User Authentication & Database
-- [Google API] - For the map navigation 
-- [GitHub] - version control system
-- **Java** – Main programming language  
-- **Android Studio** – Development framework  
-- **Firebase** – User authentication & database  
-- **Google Maps API** – Map navigation
-- **GitHub** – Version control system
+- **[Android Studio]** - Development Framework
+- **[Firebase]** - User Authentication & Database
+- **[Google API]** - For the map navigation 
+- **[GitHub]** - version control system
