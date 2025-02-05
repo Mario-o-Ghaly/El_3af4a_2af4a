@@ -19,7 +19,7 @@ The purpose of this application is to have safer and smoother drives on Egypt's 
    Navigate to the **apk** folder in this repository and download the `.apk` file to your computer or directly to your Android device.
 
 2. **Install the APK on your Android device**  
-   - Enable **"Install from Unknown Sources"** in your device's settings (this may be under "Security" or "Apps").
+   Enable **"Install from Unknown Sources"** in your device's settings (this may be under "Security" or "Apps").
    - Transfer the downloaded APK file to your Android device (if it’s not already on it).
    - Tap on the APK file to begin the installation process.
 
