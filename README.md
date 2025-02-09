@@ -34,4 +34,10 @@ The purpose of this application is to have safer and smoother drives on Egypt's 
 - **Firebase** – Provides real-time database, authentication, and cloud storage for user data and obstacle reports  
 - **Google Maps API** – Enables location tracking, navigation, and map-based visualizations  
 - **Foreground Services** – Ensures the app runs persistently in the background  
-- **Git & GitHub** – Version control system for collaboration and code management  
+- **Git & GitHub** – Version control system for collaboration and code management
+
+## Team Members
+The project was done by the following team members:
+- Andrew Aziz - https://github.com/andrewaziz8
+- Mario Ghaly - https://github.com/Mario-o-Ghaly
+- Raef Hany
