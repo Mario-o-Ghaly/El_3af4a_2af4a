@@ -17,7 +17,7 @@ The purpose of this application is to have safer and smoother drives on Egypt's 
 ## How to Compile and Run
 
 1. **Download the APK**  
-   - Go to the **apk** folder in this repository and download the `.apk` file.
+   - Go to the **apk** folder in this repository and download the `app-debug.apk` file.
 
 2. **Install the APK on your Android device**  
    - Ensure that **"Install from Unknown Sources"** is enabled in your device settings (typically under "Security" or "Apps").
