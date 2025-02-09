@@ -41,4 +41,3 @@ The purpose of this application is to have safer and smoother drives on Egypt's 
 The project was done by the following team members:
 - Andrew Aziz - https://github.com/andrewaziz8
 - Mario Ghaly - https://github.com/Mario-o-Ghaly
-- Raef Hany
