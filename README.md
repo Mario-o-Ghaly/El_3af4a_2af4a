@@ -7,6 +7,7 @@ Introducing our app **"El 3af4a 2af4a"**, your essential companion for safer, sm
 - [Usage](#Usage)
 - [How to Compile and Run](#How-to-Compile-and-Run)
 - [Technologies](#Technologies)
+- [Team Members](#Team-Members)
 
 ## Description
 This application integrates with **Google Maps API** to follow the driver's location and leverages a dataset of geographical locations using **Firebase** where the undesired obstacles exist. Moreover, the user contributes to this dataset through the sensor detection in their device that will capture these hurdles. These potholes and bumps are then used for real-time alerts with a user **feedback** feature to ensure reliability and adaptiveness to road changes. Moreover, our application employs **Foreground Services** to ensure the app continues running in the background even when other apps are in use. 
